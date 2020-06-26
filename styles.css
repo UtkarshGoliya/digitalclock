@@ -1,0 +1,11 @@
+#MyClock {
+  display: flex;
+  justify-content: center;
+  font-size: 80px;
+  padding-top: 250px;
+  color: aqua;
+  letter-spacing: 0;
+}
+body {
+  background-color: black;
+}
